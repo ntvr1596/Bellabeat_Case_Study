@@ -1,8 +1,6 @@
 # Bellabeat Capstone Case Study
 
-![Bellabeat Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bellabeat_logo.svg/2560px-Bellabeat_logo.svg.png)
-
-**Author:** Thirumala Nuthanapati  
+**Author:** Thirumala Venkat Raman Nuthanapati  
 **Language:** R | **Tools:** tidyverse, ggpubr, lubridate, janitor, skimr, ggrepel, here  
 **Dataset:** [FitBit Fitness Tracker Data (Kaggle)](https://www.kaggle.com/code/thirumalanuthanapati/thirumala-capstone-case-study)  
 
